@@ -1,11 +1,17 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.SD'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
-
+        sound: 1
+        audio: 2
+        optimization: 3
+        minimization: 3
+        declipping: 3
+        inpainting: 3
+        norm: 2
+        atomic norm: 3
+        convex: 2
+        sparse: 3
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
